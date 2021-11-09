@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-size: 1.3rem;
-    font-family: 'Nixie One', cursive;
+    font-family: 'Nixie One', sans-serif;
     border: 100px;
     background-color: #ceedf7;
 
@@ -12,7 +12,7 @@ h1 {
     color: #333333;
     font-size: 7.5rem;
     margin-bottom: 0px;
-    font-family: 'Raleway Dots', cursive;
+    font-family: 'Raleway Dots', serif;
     font-weight: normal;
     line-height: 1.5;
 }
@@ -23,13 +23,13 @@ h2 {
     margin: 20 auto 10 auto;
     text-align: center;
     font-weight: bold;
-    font-family: 'Nixie One', cursive;
+    font-family: 'Nixie One', serif;
 }
 
 h3 {
     color: 333333;
     font-size: 1.6rem;
-    font-family: 'Nixie One', cursive;
+    font-family: 'Nixie One', serif;
     text-align: left;
     top-margin: 25px;
 
@@ -39,7 +39,7 @@ h3 {
 h4 {
     color: 333333;
     font-size: 1.2rem;
-    font-family: 'Nixie One', cursive;
+    font-family: 'Nixie One', serif;
     text-align: center;
 }
 
@@ -48,7 +48,7 @@ a {
     color: black;
     font-size: 1.5rem;
     margin: 0 auto 0 auto;
-    font-family: 'Nixie One', cursive;
+    font-family: 'Nixie One', serif;
 }
 
 .top_container {
